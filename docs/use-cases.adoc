@@ -1,0 +1,37 @@
+= Use cases
+Bogdan Mocanu <bogdan.mocanu@gmail.com>
+v1.0, 2018-05-12
+
+== For users
+
+=== The user can authenticate in the application
+
+The user must authenticate in the application using the web interface, in order to be able to access
+his/her account and any services provided by MicroPaas. The user authenticates with *email* and
+*password*. For now, there is no password-reset functionality and also no email-validation functionality.
+
+The user is not allowed to register new accounts. Instead, it is the job of the admin to configure the
+user accounts and provide the email and the password to each user.
+
+=== The user can view detached resources
+
+=== The user can create a new detached resource
+
+=== The user can view deployed applications
+
+=== The user can create a new application
+
+=== The user can attach a detached resource to an application
+
+== For admins
+
+=== The admin can authenticate in the application
+
+=== The admin can view all users of the application
+
+=== The admin can add a new user
+
+=== The admin can suspend access for a user
+
+=== The admin can delete a user
+

@@ -1,0 +1,21 @@
+= Introduction
+Bogdan Mocanu <bogdan.mocanu@gmail.com>
+v1.0, 2018-05-12
+
+MicroPaas is a simple Java web application that provides Platform As A Service (PaaS) -like functionality
+with a nice and user friendly web interface. The application has minimal requirements: Java and Docker.
+
+The goal is to create a simple application that can be easily installed and operated and which, in turn,
+provides capabilities for creating dynamic resources, assembling and (re)deploying a wide
+range of applications, with the only limitations being the actual computational and storage resources
+of the hosting machine.
+
+== Intended audience
+
+The intended users of this application are students, teachers and generally people that want to have
+a very simple environment where applications can be quickly deployed and executed, or that want to
+provide one such environment to other people in the scope of educating or facilitating access to
+a simple and easy to use computing environment.
+
+The application is also targeted towards people that want to have a simple application hosting
+environment, without the hassle of managing Docker containers, proxies, volumes, configuration, etc.

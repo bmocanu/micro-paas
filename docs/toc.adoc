@@ -1,0 +1,11 @@
+= Table of contents
+Bogdan Mocanu <bogdan.mocanu@gmail.com>
+v1.0, 2018-05-12
+
+. Introduction
+. Vocabulary
+. Use cases
+. Resources and applications (for now and for the future)
+. User interface
+. Technical approach
+. Installation & configuration
